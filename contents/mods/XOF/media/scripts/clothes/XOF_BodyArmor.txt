@@ -1,0 +1,91 @@
+module XOF
+{
+
+        item Hat_XOFHelmet
+	{
+	    DisplayCategory = Helmet,
+		Type = Clothing,
+		DisplayName = XOF Helmet,
+		ClothingItem = Hat_XOFHelmet,
+		BodyLocation = Hat,
+		Icon = DH132,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		BulletDefense = 100,
+		Insulation = 0.45,
+		WaterResistance = 0.4,
+		WorldStaticModel = XOFHelmet_WorldItem,
+	}
+
+	    item Hat_XOFHelmetNVGUP
+	{
+	    DisplayCategory = Helmet,
+		Type = Clothing,
+		DisplayName = XOF Helmet w/ Night Vision,
+		ClothingItem = Hat_XOFHelmetNVGUP,
+		BodyLocation = Hat,
+		Icon = DH132,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		BulletDefense = 100,
+		Insulation = 0.45,
+		WaterResistance = 0.4,
+		WorldStaticModel = DH132_WorldItem,
+	}
+
+		item Hat_XOFHelmetNVGDOWN
+	{
+	    DisplayCategory = Helmet,
+		Type = Clothing,
+		DisplayName = XOF Helmet w/ Night Vision (Down),
+		ClothingItem = Hat_XOFHelmetNVGDOWN,
+		BodyLocation = Hat,
+		Icon = DH132,
+		CanHaveHoles = false,
+		BloodLocation = Head,
+		BiteDefense = 100,
+		ScratchDefense = 100,
+		BulletDefense = 100,
+		Insulation = 0.45,
+		WaterResistance = 0.4,
+		WorldStaticModel = DH132_WorldItem,
+	}
+
+	    item Vest_XOFVest
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = XOF Vest,
+		ClothingItem = Vest_XOFVest,
+		BodyLocation = TorsoExtra,
+		BloodLocation = ShirtNoSleeves,
+		BiteDefense = 65,
+		ScratchDefense = 65,
+		BulletDefense = 100,
+		Insulation = 0.75,
+        WindResistance = 0.30,
+		Icon = MilitaryTankerVest,
+		WorldStaticModel = MilitaryTankerVest_WorldItem,
+	}
+
+		item XOFArmArmor
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = XOF Arm Armor,
+		ClothingItem = XOFArmArmor,
+		BodyLocation = XOFLeftArm,
+		BloodLocation = Jacket,
+		BiteDefense = 65,
+		ScratchDefense = 65,
+		BulletDefense = 100,
+		Insulation = 0.75,
+        WindResistance = 0.30,
+		Icon = MilitaryTankerVest,
+		WorldStaticModel = MilitaryTankerVest_WorldItem,
+	}
+}

@@ -1,0 +1,10 @@
+module Base
+{
+
+		model XOFHelmet_WorldItem
+	{
+		mesh = WorldItems/XOFHelmet_WorldItem,
+		texture = WorldItems/XOFHelmet,
+		scale = 0.5,
+	}
+}

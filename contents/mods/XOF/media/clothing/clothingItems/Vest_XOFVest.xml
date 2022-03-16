@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_TankerVest</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_TankerVest</m_FemaleModel>
+	<m_GUID>83270f65-d7d3-4b38-95a0-6dca18cc81d6</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
+	<textureChoices>clothes\vest\Vest_XOFVest</textureChoices>
+</clothingItem>
