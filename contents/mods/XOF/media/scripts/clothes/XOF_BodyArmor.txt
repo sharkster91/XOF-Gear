@@ -85,7 +85,7 @@ module XOF
 		BulletDefense = 100,
 		Insulation = 0.75,
         WindResistance = 0.30,
-		Icon = MilitaryTankerVest,
-		WorldStaticModel = MilitaryTankerVest_WorldItem,
+		Icon = XOFArmArmor,
+		WorldStaticModel = XOFArmArmor_WorldItem,
 	}
 }

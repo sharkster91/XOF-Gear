@@ -7,4 +7,11 @@ module Base
 		texture = WorldItems/XOFHelmet,
 		scale = 0.5,
 	}
+
+		model XOFArmArmor_WorldItem
+	{
+		mesh = WorldItems/XOFArmArmor_WorldItem,
+		texture = WorldItems/XOFArmArmor,
+		scale = 0.5,
+	}
 }

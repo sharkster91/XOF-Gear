@@ -7,4 +7,5 @@
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
 	<textureChoices>clothes\misc\XOFArmArmor</textureChoices>
+	<textureChoices>clothes\misc\XOFArmArmor2</textureChoices>
 </clothingItem>
