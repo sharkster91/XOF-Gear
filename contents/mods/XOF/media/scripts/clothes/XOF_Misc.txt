@@ -1,0 +1,20 @@
+module XOF
+{
+
+	    item XOFOxygenTank
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = XOF Oxygen Tank,
+		ClothingItem = XOFOxygenTank,
+		BodyLocation = TorsoExtra,
+		BloodLocation = ShirtNoSleeves,
+		BiteDefense = 65,
+		ScratchDefense = 65,
+		BulletDefense = 100,
+		Insulation = 0.75,
+        WindResistance = 0.30,
+		Icon = MilitaryTankerVest,
+		WorldStaticModel = MilitaryTankerVest_WorldItem,
+	}
+}

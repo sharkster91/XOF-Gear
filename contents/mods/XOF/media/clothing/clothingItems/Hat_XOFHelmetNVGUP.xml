@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <clothingItem>
-	<m_MaleModel>skinned\clothes\XOFHelmetNVGUP</m_MaleModel>
-	<m_FemaleModel>skinned\clothes\XOFHelmetNVGUP</m_FemaleModel>
+	<m_MaleModel>static\clothes\XOFHelmetNVGUP</m_MaleModel>
+	<m_FemaleModel>statoc\clothes\XOFHelmetNVGUP</m_FemaleModel>
 	<m_GUID>c177981d-2765-4b30-9ced-927af8bbc7fd</m_GUID>
 	<m_Static>true</m_Static>
 	<m_AllowRandomTint>false</m_AllowRandomTint>

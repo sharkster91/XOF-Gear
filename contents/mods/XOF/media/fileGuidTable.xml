@@ -22,6 +22,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/XOF0xygenTank.xml</path>
+	<guid>61ccf8a2-2072-4f65-991e-980c409e28c5</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/XOFArmArmor.xml</path>
 	<guid>9546363a-4af4-4e08-a0b9-0d0514d5ba8d</guid>
 	</files>
