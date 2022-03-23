@@ -88,4 +88,22 @@ module XOF
 		Icon = XOFArmArmor,
 		WorldStaticModel = XOFArmArmor_WorldItem,
 	}
+	
+	    item XOFGloves
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = XOF Gloves,
+		ClothingItem = Gloves_XOFGloves,
+		BodyLocation = Hands,
+		IconsForTexture = GlovesLeatherBlackpng;GlovesLeatherBrown,
+		BloodLocation = Hands,
+		ScratchDefense = 30,
+        BiteDefense = 20,
+        Weight = 0.1,
+        Insulation = 0.75,
+        WindResistance = 0.75,
+        FabricType = Cotton,
+        WorldStaticModel = Gloves_Ground,
+	}
 }

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\M_XOFSuit</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\F_XOFSuit</m_FemaleModel>
+	<m_GUID>2cf3df0c-fcb1-49cd-b45a-125d6610451c</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\suit/XOFSuit</textureChoices>
+</clothingItem>

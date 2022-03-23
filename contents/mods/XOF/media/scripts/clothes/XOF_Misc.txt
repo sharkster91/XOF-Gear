@@ -1,12 +1,12 @@
 module XOF
 {
 
-	    item XOFOxygenTank
+		item XOFHarness
 	{
 		DisplayCategory = Clothing,
 		Type = Clothing,
-		DisplayName = XOF Oxygen Tank,
-		ClothingItem = XOFOxygenTank,
+		DisplayName = XOF Harness,
+		ClothingItem = XOFHarness,
 		BodyLocation = TorsoExtra,
 		BloodLocation = ShirtNoSleeves,
 		BiteDefense = 65,
@@ -17,4 +17,23 @@ module XOF
 		Icon = MilitaryTankerVest,
 		WorldStaticModel = MilitaryTankerVest_WorldItem,
 	}
+
+	    item XOFSuit
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = XOF Tactical Suit,
+        ClothingItem = XOFSuit,
+        BodyLocation = FullSuit,
+        Icon = JumpsuitPrisonOrange,
+        BloodLocation = Trousers;Jumper,
+        RunSpeedModifier = 0.9,
+        ScratchDefense = 10,
+        Insulation = 0.45,
+        WindResistance = 0.35,
+        FabricType = Cotton,
+        WorldStaticModel = BoilerSuit_Ground,
+    }
+
+
 }

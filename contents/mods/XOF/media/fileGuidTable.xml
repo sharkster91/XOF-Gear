@@ -22,13 +22,28 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/XOFSuit.xml</path>
+	<guid>2cf3df0c-fcb1-49cd-b45a-125d6610451c</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/XOFHarness.xml</path>
+	<guid>49523cbf-0645-4321-bc4a-4260854f860b</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/XOF0xygenTank.xml</path>
-	<guid>61ccf8a2-2072-4f65-991e-980c409e28c5</guid>
+	<guid>8f5c0c4b-5a07-443b-91e7-8b58dfdebdfc</guid>
 	</files>
 
 	<files>
 	<path>media/clothing/clothingItems/XOFArmArmor.xml</path>
 	<guid>9546363a-4af4-4e08-a0b9-0d0514d5ba8d</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Gloves_XOFGloves.xml</path>
+	<guid>e5c61940-41e7-47e5-9279-f7b6e65f9c02</guid>
 	</files>
 
 	<!-- Vanilla Clothing -->
