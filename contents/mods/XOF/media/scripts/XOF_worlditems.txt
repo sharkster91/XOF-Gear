@@ -8,6 +8,20 @@ module Base
 		scale = 0.5,
 	}
 
+		model XOFHelmetNVG_WorldItem
+	{
+		mesh = WorldItems/XOFHelmetNVG_WorldItem,
+		texture = WorldItems/XOFHelmetNVG,
+		scale = 0.5,
+	}
+
+		model XOFVest_WorldItem
+	{
+		mesh = WorldItems/XOFVest_WorldItem,
+		texture = WorldItems/XOFVest,
+		
+	}
+	
 		model XOFArmArmor_WorldItem
 	{
 		mesh = WorldItems/XOFArmArmor_WorldItem,

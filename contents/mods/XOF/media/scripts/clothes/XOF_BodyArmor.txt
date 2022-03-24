@@ -29,12 +29,15 @@ module XOF
 		Icon = DH132,
 		CanHaveHoles = false,
 		BloodLocation = Head,
+		ClothingItemExtra = XOF.Hat_XOFHelmetNVGDOWN,
+        ClothingItemExtraOption = FlipDown,
+		ClothingExtraSubmenu = FlipUp,
 		BiteDefense = 100,
 		ScratchDefense = 100,
 		BulletDefense = 100,
 		Insulation = 0.45,
 		WaterResistance = 0.4,
-		WorldStaticModel = DH132_WorldItem,
+		WorldStaticModel = XOFHelmetNVG_WorldItem,
 	}
 
 		item Hat_XOFHelmetNVGDOWN
@@ -47,12 +50,15 @@ module XOF
 		Icon = DH132,
 		CanHaveHoles = false,
 		BloodLocation = Head,
+		ClothingItemExtra = XOF.Hat_XOFHelmetNVGUP,
+        ClothingItemExtraOption = FlipUp,
+		ClothingExtraSubmenu = FlipDown,
 		BiteDefense = 100,
 		ScratchDefense = 100,
 		BulletDefense = 100,
 		Insulation = 0.45,
 		WaterResistance = 0.4,
-		WorldStaticModel = DH132_WorldItem,
+		WorldStaticModel = XOFHelmetNVG_WorldItem,
 	}
 
 	    item Vest_XOFVest
@@ -69,7 +75,7 @@ module XOF
 		Insulation = 0.75,
         WindResistance = 0.30,
 		Icon = MilitaryTankerVest,
-		WorldStaticModel = MilitaryTankerVest_WorldItem,
+		WorldStaticModel = XOFVest_WorldItem,
 	}
 
 		item XOFArmArmor

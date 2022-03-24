@@ -18,6 +18,21 @@ module XOF
 		WorldStaticModel = MilitaryTankerVest_WorldItem,
 	}
 
+    	item XOFOxygenTank
+    {
+        DisplayCategory = Clothing,
+        Type = Clothing,
+        DisplayName = XOF Oxygen Tank,
+        ClothingItem = XOFHelmet,
+        BodyLocation = FullSuit,
+        Icon = JumpsuitPrisonOrange,
+        BloodLocation = Trousers;Jumper,
+        RunSpeedModifier = 0.9,
+        ScratchDefense = 10,
+        Insulation = 0.45,
+        WindResistance = 0.35,
+    }
+
 	    item XOFSuit
     {
         DisplayCategory = Clothing,
@@ -34,6 +49,5 @@ module XOF
         FabricType = Cotton,
         WorldStaticModel = BoilerSuit_Ground,
     }
-
 
 }
