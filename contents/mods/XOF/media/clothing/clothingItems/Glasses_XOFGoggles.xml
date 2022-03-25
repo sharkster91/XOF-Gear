@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <clothingItem>
-	<m_MaleModel>static/clothes/XOFGoggles.FBX</m_MaleModel>
-	<m_FemaleModel>static/clothes/XOFGoggles.FBX</m_FemaleModel>
+	<m_MaleModel>static/clothes/XOFGoggles</m_MaleModel>
+	<m_FemaleModel>static/clothes/XOFGoggles</m_FemaleModel>
 	<m_GUID>a3030483-68b3-48fa-8b08-84398add02ed</m_GUID>
 	<m_Static>true</m_Static>
 	<m_AllowRandomHue>false</m_AllowRandomHue>
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone>Bip01_Head</m_AttachBone>
-	<m_HatCategory>Group02</m_HatCategory>
+	<m_HatCategory></m_HatCategory>
 	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
-	<textureChoices>clothes/hat/Hat_XOFGoggles</textureChoices>
+	<textureChoices>clothes/goggles/Glasses_XOFGoggles</textureChoices>
 </clothingItem>
