@@ -46,6 +46,11 @@
 	<guid>e5c61940-41e7-47e5-9279-f7b6e65f9c02</guid>
 	</files>
 
+	<files>
+	<path>media/clothing/clothingItems/Glasses_XOFGoggles.xml</path>
+	<guid>a3030483-68b3-48fa-8b08-84398add02ed</guid>
+	</files>
+
 	<!-- Vanilla Clothing -->
 	
 	<files>

@@ -18,14 +18,20 @@ module Base
 		model XOFVest_WorldItem
 	{
 		mesh = WorldItems/XOFVest_WorldItem,
-		texture = WorldItems/XOFVest,
-		
+		texture = WorldItems/XOFVest,	
 	}
 	
 		model XOFArmArmor_WorldItem
 	{
 		mesh = WorldItems/XOFArmArmor_WorldItem,
 		texture = WorldItems/XOFArmArmor,
+		scale = 0.5,
+	}
+
+		model XOFGoggles_WorldItem
+	{
+		mesh = WorldItems/XOFGoggles_WorldItem,
+		texture = WorldItems/XOFGoggles,
 		scale = 0.5,
 	}
 }
