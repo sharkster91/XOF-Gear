@@ -7,6 +7,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/XOFBalaclava.xml</path>
+	<guid>c2a1f4ea-d67a-445a-b948-f7acada1af26</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/Hat_XOFHelmetNVGUP.xml</path>
 	<guid>c177981d-2765-4b30-9ced-927af8bbc7fd</guid>
 	</files>

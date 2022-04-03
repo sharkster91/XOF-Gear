@@ -56,9 +56,24 @@ module XOF
 		Type = Clothing,
 		DisplayName = XOF Goggles,
 		ClothingItem = Glasses_XOFGoggles,
-		BodyLocation = Eyes,
+		BodyLocation = Mask,
         BloodLocation = Head,
         ScratchDefense = 10,
+		Icon= XOFGoggles,
+		Weight = 0.1,
+		Cosmetic = TRUE,
+        WorldStaticModel = XOFGoggles_WorldItem,
+	}
+
+        item XOFBalaclava
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = XOF Balaclava,
+		ClothingItem = XOFBalaclava,
+		BodyLocation = Eyes,
+        BloodLocation = Head,
+        ScratchDefense = 30,
 		Icon= XOFGoggles,
 		Weight = 0.1,
 		Cosmetic = TRUE,
