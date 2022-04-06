@@ -8,7 +8,7 @@ module XOF
 		DisplayName = XOF Helmet,
 		ClothingItem = Hat_XOFHelmet,
 		BodyLocation = Hat,
-		Icon = DH132,
+		Icon = XOFHelmet,
 		CanHaveHoles = false,
 		BloodLocation = Head,
 		BiteDefense = 100,
@@ -26,7 +26,7 @@ module XOF
 		DisplayName = XOF Helmet w/ Night Vision,
 		ClothingItem = Hat_XOFHelmetNVGUP,
 		BodyLocation = Hat,
-		Icon = DH132,
+		Icon = XOFHelmetNVGUP,
 		CanHaveHoles = false,
 		BloodLocation = Head,
 		ClothingItemExtra = XOF.Hat_XOFHelmetNVGDOWN,
@@ -47,7 +47,7 @@ module XOF
 		DisplayName = XOF Helmet w/ Night Vision (Down),
 		ClothingItem = Hat_XOFHelmetNVGDOWN,
 		BodyLocation = Hat,
-		Icon = DH132,
+		Icon = XOFHelmetNVGUP,
 		CanHaveHoles = false,
 		BloodLocation = Head,
 		ClothingItemExtra = XOF.Hat_XOFHelmetNVGUP,
@@ -74,7 +74,7 @@ module XOF
 		BulletDefense = 100,
 		Insulation = 0.75,
         WindResistance = 0.30,
-		Icon = MilitaryTankerVest,
+		Icon = XOFVest,
 		WorldStaticModel = XOFVest_WorldItem,
 	}
 
@@ -94,22 +94,5 @@ module XOF
 		Icon = XOFArmArmor,
 		WorldStaticModel = XOFArmArmor_WorldItem,
 	}
-	
-	    item XOFGloves
-	{
-	    DisplayCategory = Accessory,
-		Type = Clothing,
-		DisplayName = XOF Gloves,
-		ClothingItem = Gloves_XOFGloves,
-		BodyLocation = Hands,
-		IconsForTexture = GlovesLeatherBlackpng;GlovesLeatherBrown,
-		BloodLocation = Hands,
-		ScratchDefense = 30,
-        BiteDefense = 20,
-        Weight = 0.1,
-        Insulation = 0.75,
-        WindResistance = 0.75,
-        FabricType = Cotton,
-        WorldStaticModel = Gloves_Ground,
-	}
+
 }
