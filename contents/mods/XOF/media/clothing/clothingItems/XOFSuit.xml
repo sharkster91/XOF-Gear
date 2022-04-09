@@ -7,5 +7,6 @@
 	<m_AllowRandomHue>false</m_AllowRandomHue>
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
-	<textureChoices>clothes\suit/XOFSuit</textureChoices>
+	<textureChoices>clothes/suit/XOFSuit</textureChoices>
+	<textureChoices>clothes/suit/XOFSuit2</textureChoices>
 </clothingItem>
