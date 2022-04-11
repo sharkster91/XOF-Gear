@@ -20,5 +20,8 @@ ProfessionFramework.addProfession('XOF', {
     ["XOF.Gloves_XOFGloves"] = 1,
     ["XOF.XOFBalaclava"] = 1,
     ["XOF.XOFSuit"] = 1,
+    ["Base.Pistol1"] = 1,
+    ["Base.9mmClip"] = 1,
+    ["Base.9mmBox"] = 1,
     },
 })
