@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\XOFGasMask</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\XOFGasMask</m_FemaleModel>
+	<m_GUID>a943228d-9814-4ba9-bec4-975244a1f03e</m_GUID>
+	<m_Static>true</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone>Bip01_Head</m_AttachBone>
+	<m_HatCategory>Group02</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+	<textureChoices>clothes/hat/XOFGasMask</textureChoices>
+</clothingItem>

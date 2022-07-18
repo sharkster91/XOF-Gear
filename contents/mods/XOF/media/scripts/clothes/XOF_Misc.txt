@@ -18,6 +18,23 @@ module XOF
 		WorldStaticModel = MilitaryTankerVest_WorldItem,
 	}
 
+		item XOFAssaultVest
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = XOF Assault Vest,
+		ClothingItem = XOFAssaultVest,
+		BodyLocation = TorsoExtra,
+		BloodLocation = ShirtNoSleeves,
+		BiteDefense = 65,
+		ScratchDefense = 65,
+		BulletDefense = 100,
+		Insulation = 0.75,
+        WindResistance = 0.30,
+		Icon = MilitaryTankerVest,
+		WorldStaticModel = MilitaryTankerVest_WorldItem,
+	}
+
     	item XOFOxygenTank
     {
         DisplayCategory = Clothing,
@@ -63,6 +80,22 @@ module XOF
         ScratchDefense = 10,
 		Icon= XOFGoggles,
 		Weight = 0.1,
+		Cosmetic = TRUE,
+        WorldStaticModel = XOFGoggles_WorldItem,
+	}
+
+	    item XOFGasMask
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = XOF Gas Mask,
+		ClothingItem = XOFGasMask,
+		BodyLocation = Mask,
+        BloodLocation = Head,
+        ScratchDefense = 70,
+		BiteDefense = 40,
+		Icon= XOFGoggles,
+		Weight = 0.3,
 		Cosmetic = TRUE,
         WorldStaticModel = XOFGoggles_WorldItem,
 	}
