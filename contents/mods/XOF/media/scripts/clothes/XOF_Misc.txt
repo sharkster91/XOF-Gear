@@ -100,6 +100,22 @@ module XOF
         WorldStaticModel = XOFGoggles_WorldItem,
 	}
 
+		item XOFGasMaskNoHose
+	{
+	    DisplayCategory = Accessory,
+		Type = Clothing,
+		DisplayName = XOF Gas Mask (Hoseless),
+		ClothingItem = XOFGasMaskNoHose,
+		BodyLocation = Mask,
+        BloodLocation = Head,
+        ScratchDefense = 70,
+		BiteDefense = 40,
+		Icon= XOFGoggles,
+		Weight = 0.3,
+		Cosmetic = TRUE,
+        WorldStaticModel = XOFGoggles_WorldItem,
+	}
+
         item XOFBalaclava
 	{
 	    DisplayCategory = Accessory,

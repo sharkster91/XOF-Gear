@@ -67,6 +67,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/XOFGasMaskNoHose.xml</path>
+	<guid>ab08be7d-1630-443c-b272-b3c4e98c6c18</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/XOFAssaultVest.xml</path>
 	<guid>02dc76bc-ebf3-4a9b-b030-1eb1c8ec0843</guid>
 	</files>
