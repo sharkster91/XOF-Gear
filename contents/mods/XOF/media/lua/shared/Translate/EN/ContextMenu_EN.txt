@@ -12,6 +12,8 @@ ContextMenu_EN = {
     ContextMenu_Unfasten = "Unfasten",
     ContextMenu_VisorUp = "Visor Up",
     ContextMenu_VisorDown = "Visor Down",
+    ContextMenu_AttachHose = "Attach Hose",
+    ContextMenu_DeattachHose = "Deattach Hose",
     ContextMenu_PullUp = "Pull Up",
     ContextMenu_PullDown = "Pull Down",
 } 

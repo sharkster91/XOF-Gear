@@ -94,8 +94,8 @@ module XOF
         BloodLocation = Head,
         ScratchDefense = 70,
 		BiteDefense = 40,
-		ClothingItemExtra = XOF.XOFGasMaskNoHose
-		ClothingItemExtraOption = DetachHose,
+		ClothingItemExtra = XOF.XOFGasMaskNoHose,
+        ClothingItemExtraOption = DeattachHose,
 		ClothingExtraSubmenu = AttachHose,
 		Icon= XOFGoggles,
 		Weight = 0.3,
@@ -112,9 +112,9 @@ module XOF
 		BodyLocation = Mask,
         BloodLocation = Head,
         ScratchDefense = 70,
-		ClothingItemExtra = XOF.XOFGasMask
-		ClothingItemExtraOption = AttachHose,
-		ClothingExtraSubmenu = DetachHose,
+		ClothingItemExtra = XOF.XOFGasMask,
+        ClothingItemExtraOption = AttachHose,
+		ClothingExtraSubmenu = DeattachHose,
 		BiteDefense = 40,
 		Icon= XOFGoggles,
 		Weight = 0.3,
