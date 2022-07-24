@@ -72,6 +72,11 @@
 	</files>
 
 	<files>
+	<path>media/clothing/clothingItems/XOFGasMaskCanister.xml</path>
+	<guid>dd260fef-fe8b-4928-aee6-5b41b8b964cb</guid>
+	</files>
+
+	<files>
 	<path>media/clothing/clothingItems/XOFAssaultVest.xml</path>
 	<guid>02dc76bc-ebf3-4a9b-b030-1eb1c8ec0843</guid>
 	</files>

@@ -1,0 +1,18 @@
+module XOF{
+
+recipe Convert to canister use
+  	{
+   	   XOFGasMaskNoHose,
+
+   	   Result:XOFGasMaskCanister,
+	   Time:60,
+  	}
+
+recipe Convert to SCUBA
+  	{
+   	   XOFGasMaskCanister,
+
+   	   Result:XOFGasMaskNoHose,
+	   Time:60,
+  	}
+}		
