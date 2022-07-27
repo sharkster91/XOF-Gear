@@ -144,7 +144,7 @@ module XOF
 		Type = Clothing,
 		DisplayName = XOF Balaclava,
 		ClothingItem = XOFBalaclava,
-		BodyLocation = Eyes,
+		BodyLocation = Mask,
         BloodLocation = Head,
         ScratchDefense = 30,
 		Icon= XOFGoggles,

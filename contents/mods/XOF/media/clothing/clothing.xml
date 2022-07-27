@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <outfitManager>
 	<m_MaleOutfits>
-		<m_Name>SharkXOFOperative_NoGasMask</m_Name>
-		<m_Guid>7b4b9a4d-843e-4874-bef5-de7322bc6dd9</m_Guid>
+		<m_Name>SharkXOFOperative_GasMask</m_Name>
+		<m_Guid>badc828b-f906-44dc-92d3-3eb6b03bfa51</m_Guid>
 		<m_Top>false</m_Top>
 		<m_Pants>false</m_Pants>
 		<m_AllowPantsHue>false</m_AllowPantsHue>
@@ -11,27 +11,8 @@
 		<m_items> <!-- XOF Helmet -->
 			<m_GUID>818173ca-4891-4170-8ced-88a438ef3d2f</m_GUID>
 		</m_items>
-			<m_items> <!-- XOF Goggles -->
-		<probability>0.5</probability>
-			<m_GUID>a3030483-68b3-48fa-8b08-84398add02ed</m_GUID>
-		</m_items>
-		<m_items> <!-- XOF Balaclava -->
-			<itemGUID>c2a1f4ea-d67a-445a-b948-f7acada1af26</itemGUID>
-		</m_items>
-		<m_items> <!-- Military Webbing w/ Pack-->
-			<itemGUID>2cf3df0c-fcb1-49cd-b45a-125d6610451c</itemGUID>
-		</m_items>
-		<m_items> <!-- XOF Suit -->
-			<itemGUID>2cf3df0c-fcb1-49cd-b45a-125d6610451c</itemGUID>
-		</m_items>
-		<m_items> <!-- XOF Gloves -->
-			<itemGUID>e5c61940-41e7-47e5-9279-f7b6e65f9c02</itemGUID>
-		</m_items>	
-		<m_items> <!-- XOF Boots -->
-			<itemGUID>b2e744f1-7bd0-41ae-9f91-5b3627513865<</itemGUID>
-		</m_items>
-		<m_items> <!-- Army T-Shirt -->
-			<itemGUID>0cc9f034-1d90-4f4c-9b17-e1dcf008b356</itemGUID>
+		<m_items> <!-- XOF Gas Mask (Canister) -->
+			<itemGUID>dd260fef-fe8b-4928-aee6-5b41b8b964cb</itemGUID>
 		</m_items>
 	</m_MaleOutfits>
 </outfitManager>
