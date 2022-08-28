@@ -67,7 +67,7 @@ module XOF
 		Type = Clothing,
 		DisplayName = XOF Vest,
 		ClothingItem = Vest_XOFVest,
-		BodyLocation = AmmoStrap,
+		BodyLocation = XOFVest,
 		BloodLocation = ShirtNoSleeves,
 		BiteDefense = 65,
 		ScratchDefense = 65,
