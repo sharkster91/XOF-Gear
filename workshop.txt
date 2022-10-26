@@ -1,10 +1,10 @@
 version=1
+id=2866736570
 title= XOF Gear (test)
 description=[img]https://i.imgur.com/p7Fv1Z6.gif[/img]
 description=
 description= [h2][b]Commissioned by: ParaNautic[/b][/h2]
 description=
 description= Made by:[url=https://ko-fi.com/sharkmods]Shark[/url]
-description=
-tags=Build 41;Clothing/Armor;Military;Models;
-visibility=public
+tags=Build 41;Clothing/Armor;Military;Models
+visibility=unlisted

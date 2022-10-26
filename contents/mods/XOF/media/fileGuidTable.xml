@@ -33,12 +33,12 @@
 
 	<files>
 	<path>media/clothing/clothingItems/XOFHarness.xml</path>
-	<guid>49523cbf-0645-4321-bc4a-4260854f860b</guid>
+	<guid>5d9944c1-db7e-418f-86bd-9971fa8df2e2</guid>
 	</files>
 
 	<files>
-	<path>media/clothing/clothingItems/XOF0xygenTank.xml</path>
-	<guid>8f5c0c4b-5a07-443b-91e7-8b58dfdebdfc</guid>
+	<path>media/clothing/clothingItems/XOFOxygenTank.xml</path>
+	<guid>6b362361-8f5a-4fd2-80b3-a346bfbda7c8</guid>
 	</files>
 
 	<files>

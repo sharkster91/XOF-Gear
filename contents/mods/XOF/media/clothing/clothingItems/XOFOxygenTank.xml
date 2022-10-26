@@ -2,7 +2,7 @@
 <clothingItem>
 	<m_MaleModel>skinned\clothes\XOFOxygenTank</m_MaleModel>
 	<m_FemaleModel>skinned\clothes\XOFOxygenTank</m_FemaleModel>
-	<m_GUID>8f5c0c4b-5a07-443b-91e7-8b58dfdebdfc</m_GUID>
+	<m_GUID>6b362361-8f5a-4fd2-80b3-a346bfbda7c8</m_GUID>
 	<m_Static>false</m_Static>
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
