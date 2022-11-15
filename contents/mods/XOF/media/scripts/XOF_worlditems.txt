@@ -19,6 +19,7 @@ module Base
 	{
 		mesh = WorldItems/XOFVest_WorldItem,
 		texture = WorldItems/XOFVest,	
+				scale = 0.5,
 	}
 	
 		model XOFArmArmor_WorldItem
@@ -31,7 +32,14 @@ module Base
 		model XOFGoggles_WorldItem
 	{
 		mesh = WorldItems/XOFGoggles_WorldItem,
-		texture = WorldItems/XOFGoggles,
+		texture = clothes/goggles/Glasses_XOFGoggles,
+		scale = 0.5,
+	}
+
+		model XOFSCBA_WorldItem
+	{
+		mesh = WorldItems/XOFSCBA_WorldItem,
+		texture = WorldItems/XOFSCBA,
 		scale = 0.5,
 	}
 }

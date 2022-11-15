@@ -5,18 +5,16 @@ module XOF
 	{
 		DisplayCategory = Clothing,
 		Type = Clothing,
-		DisplayName = XOF Harness,
+		DisplayName = XOF Utility Harness,
 		ClothingItem = XOFHarness,
-		BodyLocation = AmmoStrap,
+		BodyLocation = XOFHarness,
 		BloodLocation = ShirtNoSleeves,
-		BiteDefense = 65,
-		ScratchDefense = 65,
-		BulletDefense = 100,
-		Insulation = 0.75,
-        WindResistance = 0.30,
+		BiteDefense = 5,
+		ScratchDefense = 5,
 		Icon = MilitaryTankerVest,
 		WorldStaticModel = MilitaryTankerVest_WorldItem,
 	}
+
 
 		item XOFAssaultVest
 	{
@@ -24,7 +22,7 @@ module XOF
 		Type = Clothing,
 		DisplayName = XOF Assault Vest,
 		ClothingItem = XOFAssaultVest,
-		BodyLocation = TorsoExtra,
+		BodyLocation = XOFAssaultVest,
 		BloodLocation = ShirtNoSleeves,
 		BiteDefense = 65,
 		ScratchDefense = 65,
@@ -35,28 +33,13 @@ module XOF
 		WorldStaticModel = MilitaryTankerVest_WorldItem,
 	}
 
-    	item XOFOxygenTank
-    {
-        DisplayCategory = Clothing,
-        Type = Clothing,
-        DisplayName = XOF Oxygen Tank,
-        ClothingItem = XOFOxygenTank,
-        BodyLocation = Back,
-        Icon = JumpsuitPrisonOrange,
-        BloodLocation = Trousers;Jumper,
-        RunSpeedModifier = 0.9,
-        ScratchDefense = 10,
-        Insulation = 0.45,
-        WindResistance = 0.35,
-    }
-
 	    item XOFSuit
     {
         DisplayCategory = Clothing,
         Type = Clothing,
         DisplayName = XOF Tactical Suit,
         ClothingItem = XOFSuit,
-        BodyLocation = FullSuit,
+        BodyLocation = Boilersuit,
         Icon = XOFSuit,
         BloodLocation = Trousers;Jumper,
         RunSpeedModifier = 0.9,
@@ -88,38 +71,17 @@ module XOF
 	{
 	    DisplayCategory = Accessory,
 		Type = Clothing,
-		DisplayName = XOF Gas Mask,
+		DisplayName = XOF Gas Mask w/ Oxygen Tank,
 		ClothingItem = XOFGasMask,
 		BodyLocation = Mask,
         BloodLocation = Head,
         ScratchDefense = 70,
 		BiteDefense = 40,
-		ClothingItemExtra = XOF.XOFGasMaskNoHose,
-        ClothingItemExtraOption = DeattachHose,
-		ClothingExtraSubmenu = AttachHose,
-		Icon= XOFGoggles,
+		Icon= XOFSCBA,
 		Weight = 0.3,
 		Cosmetic = TRUE,
-        WorldStaticModel = XOFGoggles_WorldItem,
-	}
-
-		item XOFGasMaskNoHose
-	{
-	    DisplayCategory = Accessory,
-		Type = Clothing,
-		DisplayName = XOF Gas Mask (Hoseless),
-		ClothingItem = XOFGasMaskNoHose,
-		BodyLocation = Mask,
-        BloodLocation = Head,
-        ScratchDefense = 70,
-		ClothingItemExtra = XOF.XOFGasMask,
-        ClothingItemExtraOption = AttachHose,
-		ClothingExtraSubmenu = DeattachHose,
-		BiteDefense = 40,
-		Icon= XOFGoggles,
-		Weight = 0.3,
-		Cosmetic = TRUE,
-        WorldStaticModel = XOFGoggles_WorldItem,
+		Tags = GasMask;HazmatSuit,
+        WorldStaticModel = XOFSCBA_WorldItem,
 	}
 
 		item XOFGasMaskCanister
@@ -135,6 +97,7 @@ module XOF
 		Icon= XOFGoggles,
 		Weight = 0.3,
 		Cosmetic = TRUE,
+		Tags = GasMask,
         WorldStaticModel = XOFGoggles_WorldItem,
 	}
 

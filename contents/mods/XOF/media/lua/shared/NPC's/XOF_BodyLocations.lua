@@ -10,4 +10,6 @@ local group = BodyLocations.getGroup("Human")
 group:getOrCreateLocation("XOFLeftArm")
 group:getOrCreateLocation("XOFSuit")
 group:getOrCreateLocation("XOFVest")
+group:getOrCreateLocation("XOFHarness")
+group:getOrCreateLocation("XOFAssaultVest")
 

@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <clothingItem>
-	<m_MaleModel>skinned\clothes\M_TankerVest</m_MaleModel>
-	<m_FemaleModel>skinned\clothes\F_TankerVest</m_FemaleModel>
-	<m_GUID>02dc76bc-ebf3-4a9b-b030-1eb1c8ec0843</m_GUID>
+	<m_MaleModel>skinned\clothes\M_XOFWebbing</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\M_XOFWebbing</m_FemaleModel>
+	<m_GUID>b25da8de-835f-4991-96b7-be96a979e7a2</m_GUID>
 	<m_Static>false</m_Static>
 	<m_AllowRandomTint>false</m_AllowRandomTint>
 	<m_AttachBone></m_AttachBone>
 	<m_UnderlayMasksFolder>media/textures/Clothes/Jacket/Masks</m_UnderlayMasksFolder>
-	<textureChoices>clothes\vest\Vest_XOFVest</textureChoices>
+	<textureChoices>clothes\vest\XOFAssaultVest</textureChoices>
 </clothingItem>
