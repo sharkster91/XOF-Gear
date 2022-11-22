@@ -11,10 +11,9 @@ module XOF
 		BloodLocation = ShirtNoSleeves,
 		BiteDefense = 5,
 		ScratchDefense = 5,
-		Icon = MilitaryTankerVest,
+		Icon = XOFHarness,
 		WorldStaticModel = MilitaryTankerVest_WorldItem,
 	}
-
 
 		item XOFAssaultVest
 	{
