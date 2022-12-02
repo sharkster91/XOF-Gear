@@ -1,4 +1,5 @@
 name=XOF Gear
 poster=poster.png
 id=XOFGear
-description= test
+require=NightVisionChucked
+description= An assortment of equipment directly inspired from XOF from Metal Gear Solid V.

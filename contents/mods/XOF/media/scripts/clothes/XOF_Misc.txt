@@ -72,7 +72,7 @@ module XOF
 		Type = Clothing,
 		DisplayName = XOF Gas Mask w/ Oxygen Tank,
 		ClothingItem = XOFGasMask,
-		BodyLocation = Mask,
+		BodyLocation = XOFGasMask,
         BloodLocation = Head,
         ScratchDefense = 70,
 		BiteDefense = 40,

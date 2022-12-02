@@ -58,6 +58,7 @@ module XOF
 		BulletDefense = 100,
 		Insulation = 0.45,
 		WaterResistance = 0.4,
+		Tags = NVGchucked,
 		WorldStaticModel = XOFHelmetNVG_WorldItem,
 	}
 

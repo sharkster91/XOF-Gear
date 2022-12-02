@@ -12,4 +12,4 @@ group:getOrCreateLocation("XOFSuit")
 group:getOrCreateLocation("XOFVest")
 group:getOrCreateLocation("XOFHarness")
 group:getOrCreateLocation("XOFAssaultVest")
-
+group:getOrCreateLocation("XOFGasMask")

@@ -19,7 +19,7 @@ module Base
 	{
 		mesh = WorldItems/XOFVest_WorldItem,
 		texture = WorldItems/XOFVest,	
-				scale = 0.5,
+		scale = 0.5,
 	}
 	
 		model XOFArmArmor_WorldItem
