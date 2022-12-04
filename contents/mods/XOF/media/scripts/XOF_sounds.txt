@@ -1,0 +1,9 @@
+module Base {
+
+    sound DDogMusic {
+        category = XOF: Main, loop = true, is3D = true,
+        clip { file = media/sounds/TheManWhoSoldTheWorld.ogg, distanceMax = 650, reverbFactor = 0.1, volume = 0.5, } 
+        clip { file = media/sounds/YouSpinMeRightRound.ogg, distanceMax = 650, reverbFactor = 0.1, volume = 0.5, } 
+        }
+
+ }
