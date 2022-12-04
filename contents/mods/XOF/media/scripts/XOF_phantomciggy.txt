@@ -1,0 +1,23 @@
+module XOF
+{
+		item PhantomCigar
+	{
+	    DisplayCategory = Junk,
+		Count	=	2,
+		HungerChange	=	0,
+		Weight	=	0.1,
+		RequireInHandOrInventory	=	Lighter/Matches,
+		Type	=	Food,
+		DisplayName	=	Phantom Cigar,
+		StressChange	=	-5,
+		Icon	=	CubanCigar,
+		CustomEatSound = PhantomCigar,
+		CustomContextMenu = Smoke,
+		CantBeFrozen = TRUE,
+		OnEat = OnEat_Cigarettes,
+		StaticModel = CubanCigarUse,
+		EatType = Cigarettes,
+		WorldStaticModel = CubanCigar_WorldItem,
+		CustomEatSound = ,
+	}
+}		
