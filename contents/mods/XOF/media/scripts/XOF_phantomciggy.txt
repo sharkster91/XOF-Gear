@@ -9,7 +9,7 @@ module XOF
 		RequireInHandOrInventory	=	Lighter/Matches,
 		Type	=	Food,
 		DisplayName	=	Phantom Cigar,
-		StressChange	=	-5,
+		StressChange	=	-100,
 		Icon	=	CubanCigar,
 		CustomEatSound = PhantomCigar,
 		CustomContextMenu = Smoke,
