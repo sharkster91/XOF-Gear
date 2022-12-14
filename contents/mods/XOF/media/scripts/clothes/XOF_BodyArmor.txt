@@ -79,12 +79,12 @@ module XOF
 		WorldStaticModel = XOFVest_WorldItem,
 	}
 
-		item XOFArmArmor
+		item XOFArmArmorLeft
 	{
 		DisplayCategory = Clothing,
 		Type = Clothing,
-		DisplayName = XOF Arm Armor,
-		ClothingItem = XOFArmArmor,
+		DisplayName = XOF Arm Armor (Left),
+		ClothingItem = XOFArmArmorLeft,
 		BodyLocation = XOFLeftArm,
 		BloodLocation = Jacket,
 		BiteDefense = 65,
@@ -96,4 +96,20 @@ module XOF
 		WorldStaticModel = XOFArmArmor_WorldItem,
 	}
 
+		item XOFArmArmorRight
+	{
+		DisplayCategory = Clothing,
+		Type = Clothing,
+		DisplayName = XOF Arm Armor (Right),
+		ClothingItem = XOFArmArmorRight,
+		BodyLocation = XOFRightArm,
+		BloodLocation = Jacket,
+		BiteDefense = 65,
+		ScratchDefense = 65,
+		BulletDefense = 100,
+		Insulation = 0.75,
+        WindResistance = 0.30,
+		Icon = XOFArmArmor,
+		WorldStaticModel = XOFArmArmor_WorldItem,
+	}
 }

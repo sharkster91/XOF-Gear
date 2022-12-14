@@ -1,31 +1,59 @@
 module Base
 {
 
+		model PhantomCigar_WorldItem
+	{
+		mesh = WorldItems/PhantomCigar_WorldItem,
+		texture = WorldItems/PhantomCigar,
+		scale = 0.5,
+	}
+
 		model XOFHelmet_WorldItem
 	{
 		mesh = WorldItems/XOFHelmet_WorldItem,
-		texture = WorldItems/XOFHelmet,
+		texture = clothes/hat/Hat_XOFHelmet,
 		scale = 0.5,
 	}
 
 		model XOFHelmetNVG_WorldItem
 	{
 		mesh = WorldItems/XOFHelmetNVG_WorldItem,
-		texture = WorldItems/XOFHelmetNVG,
+		texture = clothes/hat/Hat_XOFHelmetNVG,
 		scale = 0.5,
 	}
 
 		model XOFVest_WorldItem
 	{
 		mesh = WorldItems/XOFVest_WorldItem,
-		texture = WorldItems/XOFVest,	
+		texture = clothes/vest/Vest_XOFVest,	
+		scale = 0.5,
+	}
+
+		model XOFAssaultVest_WorldItem
+	{
+		mesh = WorldItems/XOFAssaultVest_WorldItem,
+		texture = clothes/vest/XOFAssaultVest,	
+		scale = 0.5,
+	}
+
+		model XOFUtilityHarness_WorldItem
+	{
+		mesh = WorldItems/XOFHarness_WorldItem,
+		texture = clothes/misc/XOFHarness,	
 		scale = 0.5,
 	}
 	
+		model XOFAssaultVest_WorldItem
+	{
+		mesh = WorldItems/XOFAssaultVest_WorldItem,
+		texture = clothes/vest/XOFArmArmor,
+		scale = 0.5,
+	}
+
 		model XOFArmArmor_WorldItem
 	{
 		mesh = WorldItems/XOFArmArmor_WorldItem,
-		texture = WorldItems/XOFArmArmor,
+		texture = clothes/misc/XOFArmArmor,
 		scale = 0.5,
 	}
 
@@ -39,7 +67,14 @@ module Base
 		model XOFSCBA_WorldItem
 	{
 		mesh = WorldItems/XOFSCBA_WorldItem,
-		texture = WorldItems/XOFSCBA,
+		texture = clothes/misc/XOFSCBA,
+		scale = 0.5,
+	}
+
+		model XOFGasMask_WorldItem
+	{
+		mesh = WorldItems/XOFGasMask_WorldItem,
+		texture = clothes/misc/XOFGasMask,
 		scale = 0.5,
 	}
 }

@@ -10,14 +10,14 @@ module XOF
 		Type	=	Food,
 		DisplayName	=	Phantom Cigar,
 		StressChange	=	-100,
-		Icon	=	CubanCigar,
-		CustomEatSound = PhantomCigar,
+		Icon	=	PhantomCigar,
+		CustomEatSound = DDogPhantomCigar,
 		CustomContextMenu = Smoke,
 		CantBeFrozen = TRUE,
 		OnEat = OnEat_Cigarettes,
 		StaticModel = CubanCigarUse,
 		EatType = Cigarettes,
-		WorldStaticModel = CubanCigar_WorldItem,
+		WorldStaticModel = PhantomCigar_WorldItem,
 		CustomEatSound = ,
 	}
 }		

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\R_XOFArmArmor</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\R_XOFArmArmor</m_FemaleModel>
+	<m_GUID>1828da50-64e9-45bf-8f07-9bc2fc5cb344</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\misc\XOFArmArmor</textureChoices>
+	<textureChoices>clothes\misc\XOFArmArmor2</textureChoices>
+</clothingItem>

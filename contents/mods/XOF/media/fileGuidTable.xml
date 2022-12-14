@@ -42,8 +42,13 @@
 	</files>
 
 	<files>
-	<path>media/clothing/clothingItems/XOFArmArmor.xml</path>
+	<path>media/clothing/clothingItems/XOFArmArmorLeft.xml</path>
 	<guid>9546363a-4af4-4e08-a0b9-0d0514d5ba8d</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/XOFArmArmorRight.xml</path>
+	<guid>1828da50-64e9-45bf-8f07-9bc2fc5cb344</guid>
 	</files>
 
 	<files>

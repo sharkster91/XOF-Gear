@@ -4,32 +4,30 @@ module XOF
 		item XOFHarness
 	{
 		DisplayCategory = Clothing,
-		Type = Clothing,
-		DisplayName = XOF Utility Harness,
-		ClothingItem = XOFHarness,
-		BodyLocation = XOFHarness,
-		BloodLocation = ShirtNoSleeves,
-		BiteDefense = 5,
+        Type = Clothing,
+        CanBeEquipped = XOFHarness,
+        DisplayName = XOF Utility Harness,
+        ClothingItem = XOFHarness,
+        BodyLocation = XOFHarness,
 		ScratchDefense = 5,
-		Icon = XOFHarness,
-		WorldStaticModel = MilitaryTankerVest_WorldItem,
+        Icon = XOFHarness,
+        BloodLocation = ShirtNoSleeves,
+		WorldStaticModel = XOFUtilityHarness_WorldItem,
+	
 	}
 
 		item XOFAssaultVest
 	{
 		DisplayCategory = Clothing,
-		Type = Clothing,
-		DisplayName = XOF Assault Vest,
-		ClothingItem = XOFAssaultVest,
-		BodyLocation = XOFAssaultVest,
-		BloodLocation = ShirtNoSleeves,
-		BiteDefense = 65,
-		ScratchDefense = 65,
-		BulletDefense = 100,
-		Insulation = 0.75,
-        WindResistance = 0.30,
+        Type = Container,
+        Capacity = 5,
+        CanBeEquipped = XOFAssaultVest,
+        DisplayName = XOF Assault Vest,
+        ClothingItem = XOFAssaultVest,
+        BodyLocation = XOFAssaultVest,
+        BloodLocation = ShirtNoSleeves,
 		Icon = XOFAssaultVest,
-		WorldStaticModel = MilitaryTankerVest_WorldItem,
+		WorldStaticModel = XOFAssaultVest_WorldItem,
 	}
 
 	    item XOFSuit

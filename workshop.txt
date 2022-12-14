@@ -1,6 +1,6 @@
 version=1
 id=2866736570
-title= XOF Gear (test)
+title= Metal Gear Zomboid V: XOF and Friends
 description=[img]https://i.imgur.com/p7Fv1Z6.gif[/img]
 description=
 description= [h2][b]Commissioned by: ParaNautic[/b][/h2]

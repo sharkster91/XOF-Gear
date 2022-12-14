@@ -1,5 +1,6 @@
-name=XOF Gear
+name=Metal Gear Zomboid V: XOF and Friends
 poster=poster.png
-id=XOFGear
+id=MGZXOF
 require=NightVisionChucked
 description= An assortment of equipment directly inspired from XOF from Metal Gear Solid V.
+description= For increased functionality, use Expanded Helicopter Events for special mod related events.
