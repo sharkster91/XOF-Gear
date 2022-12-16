@@ -74,7 +74,7 @@ module Base
 		model XOFGasMask_WorldItem
 	{
 		mesh = WorldItems/XOFGasMask_WorldItem,
-		texture = clothes/misc/XOFGasMask,
+		texture = clothes/hat/XOFGasMaskCanister,
 		scale = 0.5,
 	}
 }
