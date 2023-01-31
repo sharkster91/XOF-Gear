@@ -20,4 +20,25 @@ module XOF
 		WorldStaticModel = PhantomCigar_WorldItem,
 		CustomEatSound = ,
 	}
+
+		item IDroid
+	{
+	    DisplayCategory = Junk,
+		Count	=	2,
+		HungerChange	=	0,
+		Weight	=	0.1,
+		RequireInHandOrInventory	=	Lighter/Matches,
+		Type	=	Food,
+		DisplayName	=	I-Droid,
+		StressChange	=	-100,
+		Icon	=	IDroid,
+		CustomEatSound = DDogPhantomCigar,
+		CustomContextMenu = Smoke,
+		CantBeFrozen = TRUE,
+		OnEat = OnEat_Cigarettes,
+		StaticModel = CubanCigarUse,
+		EatType = Cigarettes,
+		WorldStaticModel = IDroid_WorldItem,
+		CustomEatSound = ,
+	}
 }		

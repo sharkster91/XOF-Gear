@@ -1,6 +1,13 @@
 module Base
 {
 
+		model IDroid_WorldItem
+	{
+		mesh = WorldItems/IDroid_WorldItem,
+		texture = WorldItems/IDroid,
+		scale = 0.5,
+	}
+
 		model PhantomCigar_WorldItem
 	{
 		mesh = WorldItems/PhantomCigar_WorldItem,
