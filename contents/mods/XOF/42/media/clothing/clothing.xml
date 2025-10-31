@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<outfitManager>
+	<m_MaleOutfits>
+		<m_Name>SharkXOFOperative_GasMask</m_Name>
+		<m_Guid>badc828b-f906-44dc-92d3-3eb6b03bfa51</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>
+		<m_AllowTopTint>false</m_AllowTopTint>
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<m_items> <!-- XOF Helmet -->
+			<m_GUID>818173ca-4891-4170-8ced-88a438ef3d2f</m_GUID>
+		</m_items>
+		<m_items> <!-- One Hole Balaclava - Black -->
+			<itemGUID>48241931-828e-46ce-bf1c-6c223ef6ccf3</itemGUID>
+		</m_items>
+		<m_items> <!-- CWU-27/P Flight Suit - Grey -->
+			<itemGUID>6a25bdc7-27ac-4255-8d30-315bc755bac6</itemGUID>
+		</m_items>
+		<m_items> <!-- XOF Arm Armor -->
+			<itemGUID>9546363a-4af4-4e08-a0b9-0d0514d5ba8d</itemGUID>
+		</m_items>
+		<m_items> <!-- XOF Vest -->
+			<itemGUID>83270f65-d7d3-4b38-95a0-6dca18cc81d6</itemGUID>
+		</m_items>
+		<m_items> <!-- Black Summer Flyers Gloves -->
+			<itemGUID>e8a3a1a1-837f-4edf-b809-39ddbde3f3a4</itemGUID>
+		</m_items>
+		<m_items> <!-- Black Combat Boots -->
+			<itemGUID>9f91221c-bc39-4551-9103-6e5792e9650e</itemGUID>
+		</m_items>
+	</m_MaleOutfits>
+
+</outfitManager>

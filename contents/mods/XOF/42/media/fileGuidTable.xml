@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+
+	<files>
+	<path>media/clothing/clothingItems/Hat_XOFHelmet.xml</path>
+	<guid>818173ca-4891-4170-8ced-88a438ef3d2f</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/XOFHarness.xml</path>
+	<guid>5d9944c1-db7e-418f-86bd-9971fa8df2e2</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/XOFOxygenTank.xml</path>
+	<guid>6b362361-8f5a-4fd2-80b3-a346bfbda7c8</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/XOFArmArmorLeft.xml</path>
+	<guid>9546363a-4af4-4e08-a0b9-0d0514d5ba8d</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/XOFArmArmorRight.xml</path>
+	<guid>1828da50-64e9-45bf-8f07-9bc2fc5cb344</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/Glasses_XOFGoggles.xml</path>
+	<guid>a3030483-68b3-48fa-8b08-84398add02ed</guid>
+	</files>
+	
+	<files>
+	<path>media/clothing/clothingItems/XOFGasMask.xml</path>
+	<guid>a943228d-9814-4ba9-bec4-975244a1f03e</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/XOFGasMaskNoHose.xml</path>
+	<guid>ab08be7d-1630-443c-b272-b3c4e98c6c18</guid>
+	</files>
+
+	<files>
+	<path>media/clothing/clothingItems/XOFGasMaskCanister.xml</path>
+	<guid>dd260fef-fe8b-4928-aee6-5b41b8b964cb</guid>
+	</files>
+
+</fileGuidTable>
